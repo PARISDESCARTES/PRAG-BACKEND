@@ -1,0 +1,6 @@
+com\dto\CompteDto.class
+com\iman\CompteDao.class
+com\controller\IdentificationController.class
+com\iman\Compte.class
+com\service\HomeService.class
+com\iman\ImanApplication.class
