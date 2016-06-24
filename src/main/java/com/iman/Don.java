@@ -21,7 +21,7 @@ public class Don {
 	private long idMecene;
 	@Column(name="idinfodon")
 	private long idInfoDon;
-	@Column(name="iddon")
+	@Column(name="iddon", insertable=false, updatable=false)
 	private long idModePaiement;
 	
 	

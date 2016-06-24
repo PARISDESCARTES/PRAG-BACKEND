@@ -10,6 +10,8 @@ import javax.persistence.*;
 @Table(name = "commentaire")
 public class Commentaire {
 
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name="idcompte")
 	private long idCompte;
 	
