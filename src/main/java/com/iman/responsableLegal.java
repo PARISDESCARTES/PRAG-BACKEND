@@ -9,7 +9,7 @@ import java.util.Date;
 @Entity
 @Data
 @Table(name = "responsablelegal")
-public class responsableLegal {
+public class ResponsableLegal {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -45,4 +45,7 @@ public class responsableLegal {
 
     @Column(name="idenfant")
     private long idEnfant;
+
+    @Column(name="idassociation")
+    private long idAssociation;
 }

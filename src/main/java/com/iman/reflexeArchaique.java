@@ -9,7 +9,7 @@ import java.util.Date;
 @Entity
 @Data
 @Table(name = "reflexearchaique")
-public class reflexeArchaique {
+public class ReflexeArchaique {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
