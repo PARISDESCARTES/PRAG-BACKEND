@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * Created by Sébastien on 27/06/2016.
  */
-@Component
 @RepositoryRestResource(collectionResourceRel = "enfant", path = "enfant")
 public interface EnfantDao extends PagingAndSortingRepository<Enfant,Long> {
     List<Enfant> findAll();

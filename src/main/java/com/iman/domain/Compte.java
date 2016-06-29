@@ -34,7 +34,7 @@ public class Compte {
 	private Date derniereCoCompte;
 
 	@Column(name="emailcompte")
-	private String emailCompet;
+	private String emailCompte;
 
 	@Column(name="isadmin")
 		private boolean isAdmin;
@@ -100,12 +100,12 @@ public class Compte {
 		this.loginCompte = loginCompte;
 	}
 
-	public String getEmailCompet() {
-		return emailCompet;
+	public String getEmailCompte() {
+		return emailCompte;
 	}
 
-	public void setEmailCompet(String emailCompet) {
-		this.emailCompet = emailCompet;
+	public void setEmailCompte(String emailCompet) {
+		this.emailCompte = emailCompet;
 	}
 
 	public Date getDerniereCoCompte() {

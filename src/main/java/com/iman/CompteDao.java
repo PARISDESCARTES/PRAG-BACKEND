@@ -13,5 +13,5 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 public interface CompteDao extends PagingAndSortingRepository<Compte, Long>{
 	List<Compte>  findByPrenomCompte(@Param("prenomcompte") String prenom);
 	Compte findByLoginCompteAndPasswordCompte (@Param("logincompte") String loginCompte, @Param("passwordcompte") String passwordCompte);
-
+	Compte findByIdCompte(long id);
 }
