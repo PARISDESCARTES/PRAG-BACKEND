@@ -1,38 +1,35 @@
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Traitement.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Exercice.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Enfant.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\ImanApplication.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Don.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\TherapieProgramme.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\TypeCompte.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Therapeute.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\NewsLetter.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\dto\CompteDto.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\MembreAssociation.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Commentaire.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\BlocPresentation.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\EventMedical.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\controller\IdentificationController.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Association.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Compte.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\DvtPsychoMoteurReference.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Mecene.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\CompteDao.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Therapie.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\ReflexeArchaique.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Seance.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\UtilisationDon.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\service\HomeService.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\EtapeDvt.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Programmation.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\TroubleEnfant.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\DateProgrammation.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\InfoDon.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\ResponsableLegal.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Programme.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\TypePartenaire.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\FormeJuridique.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\Medicament.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\SpecialiteTherapeute.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\ModePaiement.java
-E:\L3 MIAGE\back\PRAG-BACKEND\src\main\java\com\iman\TroubleMoteur.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\SpecialiteTherapeute.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Association.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\MembreAssociation.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\EtapeDvt.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Seance.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\FormeJuridique.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Therapie.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\ReflexeArchaique.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Medicament.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\InfoDon.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\CompteDao.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\BlocPresentation.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Don.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\ImanApplication.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Compte.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\DvtPsychoMoteurReference.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Exercice.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\TherapieProgramme.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Mecene.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\UtilisationDon.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Enfant.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\ModePaiement.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\NewsLetter.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\EventMedical.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Commentaire.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Therapeute.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\TroubleMoteur.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\ResponsableLegal.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Programme.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Programmation.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\TroubleEnfant.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\TypeCompte.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\TypePartenaire.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\DateProgrammation.java
+D:\dev\tools\Git\source\Iman_backend_final\PRAG-BACKEND\src\main\java\com\iman\domain\Traitement.java

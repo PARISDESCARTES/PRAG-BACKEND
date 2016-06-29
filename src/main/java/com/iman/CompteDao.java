@@ -2,6 +2,7 @@ package com.iman;
 
 import java.util.List;
 
+import com.iman.domain.Compte;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
