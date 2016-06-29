@@ -1,9 +1,9 @@
 package com.iman;
 
 import com.iman.domain.Enfant;
+
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 
@@ -13,7 +13,6 @@ import java.util.List;
 @RepositoryRestResource(collectionResourceRel = "enfant", path = "enfant")
 public interface EnfantDao extends PagingAndSortingRepository<Enfant,Long> {
     List<Enfant> findAll();
-
-
+    Enfant findByIdEnfant(long id);
 
 }

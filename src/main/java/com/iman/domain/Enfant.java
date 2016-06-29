@@ -26,7 +26,7 @@ public class Enfant {
 	private String descriptionEnfant; 
 	
 	@Column(name="idcompte")
-	private String idCompte;
+	private long idCompte;
 
 	public long getIdEnfant() {
 		return idEnfant;
@@ -68,11 +68,11 @@ public class Enfant {
 		this.descriptionEnfant = descriptionEnfant;
 	}
 
-	public String getIdCompte() {
+	public long getIdCompte() {
 		return idCompte;
 	}
 
-	public void setIdCompte(String idCompte) {
+	public void setIdCompte(long idCompte) {
 		this.idCompte = idCompte;
 	}
 }

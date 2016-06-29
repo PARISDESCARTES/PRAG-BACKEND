@@ -23,6 +23,42 @@ public class Don {
 	private long idInfoDon;
 	@Column(name="iddon", insertable=false, updatable=false)
 	private long idModePaiement;
+	public long getIdDon() {
+		return idDon;
+	}
+	public void setIdDon(long idDon) {
+		this.idDon = idDon;
+	}
+	public float getMontantDon() {
+		return montantDon;
+	}
+	public void setMontantDon(float montantDon) {
+		this.montantDon = montantDon;
+	}
+	public long getIdEnfant() {
+		return idEnfant;
+	}
+	public void setIdEnfant(long idEnfant) {
+		this.idEnfant = idEnfant;
+	}
+	public long getIdMecene() {
+		return idMecene;
+	}
+	public void setIdMecene(long idMecene) {
+		this.idMecene = idMecene;
+	}
+	public long getIdInfoDon() {
+		return idInfoDon;
+	}
+	public void setIdInfoDon(long idInfoDon) {
+		this.idInfoDon = idInfoDon;
+	}
+	public long getIdModePaiement() {
+		return idModePaiement;
+	}
+	public void setIdModePaiement(long idModePaiement) {
+		this.idModePaiement = idModePaiement;
+	}
 	
 	
 	
