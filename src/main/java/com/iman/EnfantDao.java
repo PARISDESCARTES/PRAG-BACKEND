@@ -14,5 +14,6 @@ import java.util.List;
 public interface EnfantDao extends PagingAndSortingRepository<Enfant,Long> {
     List<Enfant> findAll();
     Enfant findByIdEnfant(long id);
+    Enfant findByIdCompte(long id);
 
 }
